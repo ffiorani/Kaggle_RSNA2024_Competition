@@ -37,17 +37,17 @@ For each imaging study, severity scores (Normal/Mild, Moderate, or Severe) were 
 5. Resized and saved the images
 
 <div align="center">
-  <img src="converted_images/sagittal_T2.png" alt="Preprocessed Sagittal T2 Image" width="300"/>
+  <img src="Converted_images/Sagittal_T2.png" alt="Preprocessed Sagittal T2 Image" width="300"/>
   <p><em>Sagittal T2 Image: Side view of the spine, highlighting intervertebral discs and spinal alignment</em></p>
 </div>
 
 <div align="center">
-  <img src="converted_images/sagittal_T1.png" alt="Preprocessed Sagittal T1 Image" width="300"/>
+  <img src="Converted_images/Sagittal_T1.png" alt="Preprocessed Sagittal T1 Image" width="300"/>
   <p><em>Sagittal T1 Image: Side view of the spine, providing better contrast for bone structures</em></p>
 </div>
 
 <div align="center">
-  <img src="converted_images/axial_T2.png" alt="Preprocessed Axial T2 Image" width="300"/>
+  <img src="Converted_images/Axial_T2.png" alt="Preprocessed Axial T2 Image" width="300"/>
   <p><em>Axial T2 Image: Cross-sectional view of the spine, showing the spinal canal and surrounding structures</em></p>
 </div>
 
